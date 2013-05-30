@@ -1,0 +1,6 @@
+S:\Programs\C#\XNA\Rob's XNA Library\Rob's XNA Library\bin\x86\Release\Rob's XNA Library.dll
+S:\Programs\C#\XNA\Rob's XNA Library\Rob's XNA Library\bin\x86\Release\Rob's XNA Library.pdb
+S:\Programs\C#\XNA\Rob's XNA Library\Rob's XNA Library\obj\x86\Release\ResolveAssemblyReference.cache
+S:\Programs\C#\XNA\Rob's XNA Library\Rob's XNA Library\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+S:\Programs\C#\XNA\Rob's XNA Library\Rob's XNA Library\obj\x86\Release\Rob's XNA Library.dll
+S:\Programs\C#\XNA\Rob's XNA Library\Rob's XNA Library\obj\x86\Release\Rob's XNA Library.pdb

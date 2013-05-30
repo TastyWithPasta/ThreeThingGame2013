@@ -1,0 +1,6 @@
+S:\Programs\C#\XNA\Rob's XNA Library\Rob's XNA Phone Library 7.1\bin\Windows Phone\Debug\Rob's XNA Phone Library.dll
+S:\Programs\C#\XNA\Rob's XNA Library\Rob's XNA Phone Library 7.1\bin\Windows Phone\Debug\Rob's XNA Phone Library.pdb
+S:\Programs\C#\XNA\Rob's XNA Library\Rob's XNA Phone Library 7.1\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+S:\Programs\C#\XNA\Rob's XNA Library\Rob's XNA Phone Library 7.1\obj\Windows Phone\Debug\Rob's XNA Phone Library.dll
+S:\Programs\C#\XNA\Rob's XNA Library\Rob's XNA Phone Library 7.1\obj\Windows Phone\Debug\Rob's XNA Phone Library.pdb
+S:\Programs\C#\XNA\Rob's XNA Library\Rob's XNA Phone Library 7.1\obj\Windows Phone\Debug\Rob's XNA Phone Library 7.1.csprojResolveAssemblyReference.cache

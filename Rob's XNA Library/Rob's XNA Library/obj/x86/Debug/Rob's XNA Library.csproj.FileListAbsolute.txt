@@ -1,0 +1,12 @@
+S:\Programs\C#\XNA\Rob's XNA Library\Rob's XNA Library\bin\x86\Debug\Rob's XNA Library.dll
+S:\Programs\C#\XNA\Rob's XNA Library\Rob's XNA Library\bin\x86\Debug\Rob's XNA Library.pdb
+S:\Programs\C#\XNA\Rob's XNA Library\Rob's XNA Library\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+S:\Programs\C#\XNA\Rob's XNA Library\Rob's XNA Library\obj\x86\Debug\Rob's XNA Library.dll
+S:\Programs\C#\XNA\Rob's XNA Library\Rob's XNA Library\obj\x86\Debug\Rob's XNA Library.pdb
+S:\Programs\C#\XNA\Rob's XNA Library\Rob's XNA Library\obj\x86\Debug\Rob's XNA Library.csprojResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\TTG\Rob's XNA Library\Rob's XNA Library\bin\x86\Debug\Rob's XNA Library.dll
+C:\Users\Rob\Desktop\TTG\Rob's XNA Library\Rob's XNA Library\bin\x86\Debug\Rob's XNA Library.pdb
+C:\Users\Rob\Desktop\TTG\Rob's XNA Library\Rob's XNA Library\obj\x86\Debug\Rob's XNA Library.csprojResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\TTG\Rob's XNA Library\Rob's XNA Library\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\TTG\Rob's XNA Library\Rob's XNA Library\obj\x86\Debug\Rob's XNA Library.dll
+C:\Users\Rob\Desktop\TTG\Rob's XNA Library\Rob's XNA Library\obj\x86\Debug\Rob's XNA Library.pdb
